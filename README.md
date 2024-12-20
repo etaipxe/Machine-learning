@@ -1,2 +1,2 @@
-# Machine-learninginging
+# Machine-learning
 ML scripts
