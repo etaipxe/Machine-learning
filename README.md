@@ -24,7 +24,7 @@ To run the analysis, the following dependencies are required:
 - pandas
 - scikit-learn
 - ASE (Atomic Simulation Environment)
-- VASP or other DFT/CINEB tools for running simulations
+- VASP or other DFT/CI-NEB tools for running simulations
 =======
 # Machine Learning-Assisted Investigation of Strain Effects on Clustered Anti-Perovskite Solid-State Electrolytes: A Case of Study about Li₃OBH₄ Using DFT Calculations
 ML scripts
