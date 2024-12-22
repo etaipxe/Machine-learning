@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # **Machine Learning-Assisted Investigation of Strain Effects on Clustered Anti-Perovskite Solid-State Electrolytes: A Case of Study about Li₃OBH₄ Using DFT Calculations**
 
 This repository provides the open-source data and code accompanying the research article titled "Machine Learning-Assisted Investigation of Strain Effects on Clustered Anti-Perovskite Solid-State Electrolytes: A Case of Study about Li₃OBH₄ Using DFT Calculations."
@@ -25,7 +24,3 @@ To run the analysis, the following dependencies are required:
 - scikit-learn
 - ASE (Atomic Simulation Environment)
 - VASP or other DFT/CI-NEB tools for running simulations
-=======
-# Machine Learning-Assisted Investigation of Strain Effects on Clustered Anti-Perovskite Solid-State Electrolytes: A Case of Study about Li₃OBH₄ Using DFT Calculations
-ML scripts
->>>>>>> 5d4e166f85357aae7db742e8e91dabe56c881e36
